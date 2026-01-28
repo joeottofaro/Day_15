@@ -1,3 +1,4 @@
+# Data is holding our dictionary
 import data
 
 # Power is used to control the while loop
